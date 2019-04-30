@@ -1,11 +1,11 @@
 
 
-#body {
+body {
     font-family: Tahoma, Geneva, sans-serif;
     font-size: 36px;
     letter-spacing: 2px;
     word-spacing: 2px;
-    color: #831818;
+    color: black;
     font-weight: normal;
     text-decoration: none;
     font-style: normal;
@@ -16,6 +16,6 @@
 
 
 
-#body {
+body {
     background-color:  red;
 }

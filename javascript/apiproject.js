@@ -1,6 +1,6 @@
 //variables
 var URLstart = "https://api.giphy.com/v1/gifs/trending?api_key=3o5diAlhFPmPMiRGo7orE73yVThITW45";
-var topics = ["English Bulldog", "Gamers", "Starcraft", "Magic the Gathering", "Gambling"];
+var topics = ["English Bulldog", "Gamers", "Starcraft", "Magic the Gathering", "Gambling", "Pugs", "Game of Thrones", "Seahawks"];
 
 
 
